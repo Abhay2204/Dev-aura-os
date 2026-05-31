@@ -1,0 +1,18 @@
+{
+  "name": "DEV AURA OS",
+  "short_name": "AuraOS",
+  "description": "The world's most advanced developer-centric Web OS and browser ecosystem.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020a16",
+  "theme_color": "#00f5d4",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
